@@ -1,0 +1,6 @@
+{
+  "name": "AURELIA SPATIAL ATELIER",
+  "description": "Your Imagination. Your Hands. Your Virtual Atelier. A premium interactive 3D virtual haute couture fashion design atelier with custom fabrics, black marble studio, and Parisian couture aesthetics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
